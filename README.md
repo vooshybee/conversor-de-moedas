@@ -17,6 +17,16 @@ Aplicativo web que converte valores entre diferentes moedas. Utiliza TypeScript 
 
 ## Pré-requisitos
 
+Instale a extensão Live Server no VS Code:
+
+Abra o VS Code.
+Vá até a aba de Extensões (Ctrl + Shift + X).
+Busque por "Live Server" e instale a extensão de Ritwick Dey.
+Abra o projeto no VS Code e clique com o botão direito no arquivo index.html.
+
+Selecione "Open with Live Server".
+O navegador será aberto automaticamente com a aplicação em execução.
+
 - [Node.js](https://nodejs.org/) instalado.
 - [TypeScript](https://www.typescriptlang.org/) instalado globalmente (opcional, se preferir compilar via linha de comando):
   ```bash
